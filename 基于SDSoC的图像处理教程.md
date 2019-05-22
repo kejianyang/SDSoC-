@@ -32,7 +32,7 @@
 "-hls-target 1"
 opencv_core
 opencv_imgproc
-opencv_imgcoes
+opencv_imgcodecs
 opencv_features2d
 opencv_calib3d
 opencv_flann
@@ -88,23 +88,21 @@ opencv_highgui
 
 21图像细化
 
-22subtopic
+22亮度调节
 
-23亮度调节
+23对比度调节
 
-24对比度调节
+24马赛克效果处理
 
-25马赛克效果处理
+25线性平滑滤波
 
-26线性平滑滤波
+26锐化处理-双向增强
 
-27锐化处理-双向增强
+27梯度锐化
 
-28梯度锐化
+28浮雕处理
 
-29浮雕处理
-
-30霓虹处理
+29霓虹处理
 
 
 
